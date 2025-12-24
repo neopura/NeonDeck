@@ -3,7 +3,6 @@
 A modern, high-performance web dashboard for network service discovery and inventory management. 
 Discovers active services on your network, probes for HTTP/HTTPS responses, and identifies common services automatically.
 
-![Dashboard Preview](https://raw.githubusercontent.com/placeholder/preview.png)
 
 ## ✨ Features
 
@@ -65,3 +64,4 @@ Key variables in `.env`:
 ## 🛡️ License
 
 This project is open-source and available under the MIT License. Feel free to fork it, modify it, and share it!
+
