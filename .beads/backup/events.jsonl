@@ -13132,3 +13132,4 @@
 {"actor":"neondeck/witness","comment":null,"created_at":"2026-03-08T16:07:33Z","event_type":"closed","id":13232,"issue_id":"ne-mol-1k2ri","new_value":"Closed","old_value":""}
 {"actor":"neondeck/refinery","comment":null,"created_at":"2026-03-08T16:08:52Z","event_type":"closed","id":13233,"issue_id":"ne-mol-92lze","new_value":"Closed","old_value":""}
 {"actor":"neondeck/witness","comment":null,"created_at":"2026-03-08T16:09:49Z","event_type":"closed","id":13234,"issue_id":"ne-mol-rzb0m","new_value":"stale patrol cleanup","old_value":""}
+{"actor":"neondeck/refinery","comment":null,"created_at":"2026-03-08T16:38:55Z","event_type":"closed","id":13235,"issue_id":"ne-mol-l3v3a","new_value":"stale patrol cleanup","old_value":""}
